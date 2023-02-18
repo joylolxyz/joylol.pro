@@ -173,7 +173,7 @@ a.active,a:focus,a:hover{
 .home .model .header .logo{
     margin:15px;
     opacity:.8;
-    background-image:url(img/szaicon.png);
+    background-image:url("https://github.com/joylolxyz/joylol.pro/blob/main/img/szaicon.png?raw=true");
     background-position:center;
     background-repeat:no-repeat;
     -webkit-background-size:cover;
